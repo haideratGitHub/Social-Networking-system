@@ -1,0 +1,5 @@
+﻿  InfluenceNetwork.cpp
+d:\semester 3\data structure\assignments\assignment2_social network\social_influence_network\social_influence_network\influencenetwork.cpp(165): warning C4018: '<': signed/unsigned mismatch
+d:\semester 3\data structure\assignments\assignment2_social network\social_influence_network\social_influence_network\influencenetwork.cpp(134): warning C4715: 'InfluenceNetwork::influence': not all control paths return a value
+  social_influence_network.vcxproj -> D:\Semester 3\Data Structure\Assignments\Assignment2_Social Network\social_influence_network\Debug\social_influence_network.exe
+  social_influence_network.vcxproj -> D:\Semester 3\Data Structure\Assignments\Assignment2_Social Network\social_influence_network\Debug\social_influence_network.pdb (Full PDB)
